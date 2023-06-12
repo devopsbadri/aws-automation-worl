@@ -1,0 +1,2 @@
+Revert is process of rollback/undo change from particular commit to previous commit.
+Even Reverted changes will be recorded by Git.
